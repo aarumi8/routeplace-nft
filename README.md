@@ -6,8 +6,11 @@ We use Router Protocol chain for NFT crosschain transfers that allow user to buy
 
 Project architecture:
 /client - the frontend code for the website.
+
 /market-contract - the contracts for marketplace.
+
 /server - the backend server for the marketplace.
+
 /xerc721-contract - contracts for the XERC721 standard tokens.
 
 Demo: https://routeplacenft.web.app/
